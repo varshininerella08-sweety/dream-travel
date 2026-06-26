@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    text-align: center;
+    background: linear-gradient(to right, #99f6e4, #bfdbfe);
+}
+
+nav {
+    background: navy;
+    padding: 20px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+    font-size: 20px;
+}
+
+h1 {
+    color: darkblue;
+    font-size: 50px;
+}
+
+h2 {
+    color: darkblue;
+}
+
+img {
+    margin: 15px;
+    border-radius: 10px;
+}
+
+button {
+    background: blue;
+    color: white;
+    padding: 15px 30px;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+}
